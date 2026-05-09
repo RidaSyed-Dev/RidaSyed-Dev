@@ -1,50 +1,113 @@
-<h1 align="center">Hi, I'm Rida Syed 👋</h1>
-<h3 align="center">Flutter & Dart Developer • Building cross-platform mobile experiences</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+I'm+Rida+Syed+👋;Flutter+%26+Dart+Developer;Mobile+App+Architect+📱;Building+for+iOS+%26+Android;Open+to+Remote+Contracts+🌍" />
+</h1>
 
 <p align="center">
-  <a href="https://ridasyed.com">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/rida-syedd">💼 LinkedIn</a> •
-  <a href="mailto:your@email.com">📧 Email</a>
+  <a href="https://ridasyed.com"><img src="https://img.shields.io/badge/Portfolio-ridasyed.com-blue?style=flat&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/rida-syedd"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=RidaSyed-Dev&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## About me
+## 👩‍💻 About Me
 
-- 📱 Specialising in **Flutter** mobile apps — iOS, Android, and beyond
-- 🛠️ Building apps for food delivery, ride-hailing, fintech, and e-commerce
-- 🌍 Based in Pakistan — available for **remote contracts worldwide**
-- 💬 Open to collaboration, freelance, and long-term partnerships
-
----
-
-## Tech stack
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## Featured projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Food Delivery App](link) | Full-stack food ordering app with real-time order tracking | Flutter, Firebase |
-| [Driver App](link) | Driver-side companion app with live location & earnings dashboard | Flutter, Maps API |
-| [Bitcoin App](link) | Crypto price tracker with live market data | Flutter, REST API |
+```dart
+class RidaSyed extends FlutterDeveloper {
+  final String location    = "Pakistan 🇵🇰 · Remote Worldwide 🌍";
+  final String focus       = "Cross-platform mobile apps (iOS & Android)";
+  final String experience  = "Flutter · Dart · Firebase · REST APIs";
+  final bool   openToWork  = true;
+  
+  List<String> get expertise => [
+    "E-commerce & food delivery apps",
+    "Fintech & crypto dashboards",
+    "Admin panels & driver apps",
+    "Clean UI with Figma to Flutter",
+  ];
+}
+```
 
 ---
 
-## GitHub stats
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🍔 Food Delivery App
+Full-stack food ordering platform with real-time order tracking, payment integration, and admin panel.
+
+**Tech:** Flutter · Firebase · REST API · Figma  
+[📂 View Repo](link) · [📸 Screenshots](link)
+
+</td>
+<td width="50%">
+
+### 🚗 Driver App
+Driver-side companion app with live GPS tracking, earnings dashboard, and trip management.
+
+**Tech:** Flutter · Google Maps API · Firebase  
+[📂 View Repo](link) · [📸 Screenshots](link)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ₿ Bitcoin Tracker
+Live crypto price tracker with portfolio management and price alerts.
+
+**Tech:** Flutter · CoinGecko API · Dart  
+[📂 View Repo](link)
+
+</td>
+<td width="50%">
+
+### 💬 Chat Application
+Real-time messaging app with push notifications and media sharing.
+
+**Tech:** Flutter · Firebase · Cloud Messaging  
+[📂 View Repo](link)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RidaSyed-Dev&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaSyed-Dev&layout=compact&hide_border=true" height="160"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,git,postman,mongodb,mysql" /><br/>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,appwrite,supabase,aws,xd" />
 </p>
 
 ---
 
-<p align="center">💼 Open to remote work · Let's build something great together</p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RidaSyed-Dev&count_private=true&theme=tokyonight&border_radius=10"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=RidaSyed-Dev&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RidaSyed-Dev&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity"/>
+</p>
+
+---
+
+## 🤝 Let's Work Together
+
+> 💼 I'm available for **freelance projects**, **remote contracts**, and **long-term collaborations**.  
+> 🌍 Clients from USA, UK, Europe, Middle East — all welcome.  
+> ⚡ Response time: within 24 hours
+
+<p align="center">
+  <a href="https://ridasyed.com">
+    <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-ridasyed.com-2ea44f?style=for-the-badge"/>
+  </a>
+</p>
