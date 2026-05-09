@@ -1,10 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+I'm+Rida+Syed+👋;Flutter+%26+Dart+Developer;Mobile+App+Architect+📱;Building+for+iOS+%26+Android;Open+to+Remote+Contracts+🌍" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+I'm+Rida+Syed+👋;Flutter+%26+Dart+Developer;Mobile+%26+Web+App+Developer+📱💻;Building+for+iOS+%2C+Android+%26+Web;Open+to+Remote+Contracts+🌍" />
 </h1>
 
 <p align="center">
   <a href="https://ridasyed.com"><img src="https://img.shields.io/badge/Portfolio-ridasyed.com-blue?style=flat&logo=google-chrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/rida-syedd"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/rida.syedd"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/20132363/rida-syed"><img src="https://img.shields.io/badge/Stack%20Overflow-Profile-FE7A16?style=flat&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://bsky.app/profile/ridadev.flutter.community"><img src="https://img.shields.io/badge/Bluesky-Follow-0085FF?style=flat&logo=bluesky&logoColor=white"/></a>
   <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=RidaSyed-Dev&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
@@ -16,7 +19,7 @@
 ```dart
 class RidaSyed extends FlutterDeveloper {
   final String location    = "Pakistan 🇵🇰 · Remote Worldwide 🌍";
-  final String focus       = "Cross-platform mobile apps (iOS & Android)";
+  final String focus       = "Cross-platform apps — iOS, Android & Web";
   final String experience  = "Flutter · Dart · Firebase · REST APIs";
   final bool   openToWork  = true;
   
@@ -31,6 +34,23 @@ class RidaSyed extends FlutterDeveloper {
 
 ---
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,postman,supabase" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=github,git,bitbucket,js,ts" /><br/><br/>
+</p>
+
+<!-- CI/CD & DevOps -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Codemagic-CI%2FCD-F45E3F?style=flat&logo=codemagic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fastlane-Automation-00F200?style=flat&logo=fastlane&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white"/>
+</p>
+
+---
+
+<!--
 ## 🚀 Featured Projects
 
 <table>
@@ -75,35 +95,32 @@ Real-time messaging app with push notifications and media sharing.
 </td>
 </tr>
 </table>
+-->
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,git,postman,mongodb,mysql" /><br/>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,appwrite,supabase,aws,xd" />
-</p>
-
----
-
-## 📊 GitHub Stats
+## 📊 My Coding Activity
 
 <p align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RidaSyed-Dev&count_private=true&theme=tokyonight&border_radius=10"/>
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=RidaSyed-Dev&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaSyed-Dev&layout=donut&hide_border=true&title_color=a78bfa&text_color=c4b5fd&bg_color=0d0d0d&langs_count=6&hide=html,css" 
+    width="340" 
+    alt="Top Languages Donut"
+  />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RidaSyed-Dev&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidaSyed-Dev&theme=dracula" 
+    width="92%" 
+    alt="Profile Summary"
+  />
 </p>
 
 ---
 
 ## 🤝 Let's Work Together
 
-> 💼 I'm available for **freelance projects**, **remote contracts**, and **long-term collaborations**.  
-> 🌍 Clients from USA, UK, Europe, Middle East — all welcome.  
+> 💼 Available for **freelance projects**, **remote contracts**, and **long-term collaborations**  
+> 🌍 Clients from USA, UK, Europe, Middle East — all welcome  
 > ⚡ Response time: within 24 hours
 
 <p align="center">
