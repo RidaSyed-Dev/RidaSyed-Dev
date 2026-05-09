@@ -1,16 +1,24 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+I'm+Rida+Syed+👋;Flutter+%26+Dart+Developer;Mobile+%26+Web+App+Developer+📱💻;Building+for+iOS+%2C+Android+%26+Web;Open+to+Remote+Contracts+🌍" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=7c3aed&height=200&text=Rida%20Syed&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=Flutter%20Mobile%20%26%20Web%20App%20Developer&descSize=22&descAlignY=75"/>
 
-<p align="center">
-  <a href="https://ridasyed.com"><img src="https://img.shields.io/badge/Portfolio-ridasyed.com-blue?style=flat&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/rida-syedd"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/rida.syedd"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/20132363/rida-syed"><img src="https://img.shields.io/badge/Stack%20Overflow-Profile-FE7A16?style=flat&logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://bsky.app/profile/ridadev.flutter.community"><img src="https://img.shields.io/badge/Bluesky-Follow-0085FF?style=flat&logo=bluesky&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=RidaSyed-Dev&label=Profile+Views&color=0e75b6&style=flat"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&center=true&vCenter=true&width=750&height=55&duration=3500&color=c4b5fd&lines=📱+Flutter+Mobile+%28iOS+%2B+Android%29+%26+💻+Web+Developer;🌍+Remote+·+Open+to+Contracts+%26+Freelance;✨+Building+Pixel-Perfect+Apps+Worldwide" />
+
+<br/>
+
+<p align="center" style="color:#c4b5fd; font-size:16px;">
+I'm <b>Rida Syed</b> — Flutter Mobile <b>(iOS + Android)</b> & Web App Developer.<br/>
+Remote · Open to contracts & freelance worldwide 🌍
 </p>
+
+<a href="https://ridasyed.com"><img src="https://img.shields.io/badge/🌐_Portfolio-ridasyed.com-7c3aed?style=for-the-badge&logoColor=white"/></a>
+<a href="https://linkedin.com/in/rida-syedd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/rida.syedd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/20132363/rida-syed"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+<a href="https://bsky.app/profile/ridadev.flutter.community"><img src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
+<a href="mailto:dev@ridasyed.com"><img src="https://img.shields.io/badge/📧_Hire_Me-7c3aed?style=for-the-badge&logoColor=white"/></a>
+
+</div>
 
 ---
 
@@ -18,37 +26,139 @@
 
 ```dart
 class RidaSyed extends FlutterDeveloper {
-  final String location    = "Pakistan 🇵🇰 · Remote Worldwide 🌍";
-  final String focus       = "Cross-platform apps — iOS, Android & Web";
-  final String experience  = "Flutter · Dart · Firebase · REST APIs";
-  final bool   openToWork  = true;
-  
+  final String location   = "Pakistan 🇵🇰 · Remote Worldwide 🌍";
+  final String focus      = "Cross-platform apps — iOS, Android & Web";
+  final bool   openToWork = true;
+
   List<String> get expertise => [
     "E-commerce & food delivery apps",
     "Fintech & crypto dashboards",
     "Admin panels & driver apps",
-    "Clean UI with Figma to Flutter",
+    "Pixel-perfect UI — Figma to Flutter",
   ];
 }
 ```
 
+<br/>
+
+<table width="100%" style="width:100%">
+
+<tr>
+<td align="center" colspan="8">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━%20🧠%20Core%20Stack%20━━━━━━━━━━━━━━━━━━━━━━━━-11111b?style=for-the-badge"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="12%"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></td>
+<td align="center" width="12%"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/></td>
+<td align="center" width="12%"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/></td>
+<td align="center" width="12%"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/></td>
+<td align="center" width="12%"><img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square"/></td>
+<td align="center" width="12%"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/></td>
+<td align="center" width="12%"><img src="https://img.shields.io/badge/Flutter_Web-02569B?style=flat-square&logo=flutter&logoColor=white"/></td>
+<td align="center" width="12%"><img src="https://img.shields.io/badge/Dart_Frog-0175C2?style=flat-square&logo=dart&logoColor=white"/></td>
+</tr>
+
+<tr>
+<td align="center" colspan="8">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━%20⚙️%20Architecture%20━━━━━━━━━━━━━━━━━━━━━━━━-11111b?style=for-the-badge"/>
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Clean_Architecture-a78bfa?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/MVVM-7c3aed?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/State_Management-6d28d9?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/BLoC_Pattern-7c3aed?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Provider-8b5cf6?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Riverpod-6d28d9?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/GetX-a78bfa?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/MVC_Pattern-5b21b6?style=flat-square"/></td>
+</tr>
+
+<tr>
+<td align="center" colspan="8">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━%20🎨%20UI%20%26%20Design%20━━━━━━━━━━━━━━━━━━━━━━━━-11111b?style=for-the-badge"/>
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Figma_to_Flutter-F24E1E?style=flat-square&logo=figma&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Responsive_UI-c4b5fd?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Pixel_Perfect-8b5cf6?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Animations-7c3aed?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Custom_Widgets-a78bfa?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Dark_Mode_UI-1a1a2e?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Material_Design-757575?style=flat-square&logo=material-design&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Cupertino_UI-0D96F6?style=flat-square&logo=apple&logoColor=white"/></td>
+</tr>
+
+<tr>
+<td align="center" colspan="8">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━%20🔧%20DevOps%20%26%20Version%20Control%20━━━━━━━━━━━━━━━━━━━━━━━━-11111b?style=for-the-badge"/>
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Codemagic-F45E3F?style=flat-square&logo=codemagic&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/CI%2FCD-FF6B6B?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Agile_Workflow-7c3aed?style=flat-square"/></td>
+</tr>
+
+<tr>
+<td align="center" colspan="8">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━%20📦%20Integrations%20━━━━━━━━━━━━━━━━━━━━━━━━-11111b?style=for-the-badge"/>
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Payment_Gateways-00C853?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=google-maps&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Authentication-E91E63?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Push_Notifications-FF6B6B?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Deep_Linking-FF9800?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/API_Integration-009688?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/In_App_Purchase-0D96F6?style=flat-square&logo=apple&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Social_Auth-DB4437?style=flat-square&logo=google&logoColor=white"/></td>
+</tr>
+
+<tr>
+<td align="center" colspan="8">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━%20🚀%20Deployment%20━━━━━━━━━━━━━━━━━━━━━━━━-11111b?style=for-the-badge"/>
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/App_Store_Connect-0D96F6?style=flat-square&logo=apple&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Firebase_Distribution-FFCA28?style=flat-square&logo=firebase&logoColor=black"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Play_Console-414141?style=flat-square&logo=google-play&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Web_Hosting-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/></td>
+</tr>
+
+<tr>
+<td align="center" colspan="8">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━%20🤖%20AI%20Tools%20━━━━━━━━━━━━━━━━━━━━━━━━-11111b?style=for-the-badge"/>
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Windsurf-0EA5E9?style=flat-square&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Lovable-FF6B9D?style=flat-square&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Bolt.new-000000?style=flat-square&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Claude_Design-CC785C?style=flat-square&logo=anthropic&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/v0_by_Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=github&logoColor=white"/></td>
+</tr>
+
+</table>
+
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,postman,supabase" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=github,git,bitbucket,js,ts" /><br/><br/>
-</p>
-
-<!-- CI/CD & DevOps -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Codemagic-CI%2FCD-F45E3F?style=flat&logo=codemagic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fastlane-Automation-00F200?style=flat&logo=fastlane&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white"/>
-</p>
-
----
 
 <!--
 ## 🚀 Featured Projects
@@ -58,19 +168,17 @@ class RidaSyed extends FlutterDeveloper {
 <td width="50%">
 
 ### 🍔 Food Delivery App
-Full-stack food ordering platform with real-time order tracking, payment integration, and admin panel.
-
-**Tech:** Flutter · Firebase · REST API · Figma  
-[📂 View Repo](link) · [📸 Screenshots](link)
+Full-stack ordering platform — real-time tracking, payments, admin panel.
+**Tech:** Flutter · Firebase · REST API · Figma
+[📂 Repo](link) · [📸 Screenshots](link)
 
 </td>
 <td width="50%">
 
 ### 🚗 Driver App
-Driver-side companion app with live GPS tracking, earnings dashboard, and trip management.
-
-**Tech:** Flutter · Google Maps API · Firebase  
-[📂 View Repo](link) · [📸 Screenshots](link)
+Live GPS tracking, earnings dashboard, trip management.
+**Tech:** Flutter · Google Maps · Firebase
+[📂 Repo](link) · [📸 Screenshots](link)
 
 </td>
 </tr>
@@ -78,53 +186,53 @@ Driver-side companion app with live GPS tracking, earnings dashboard, and trip m
 <td width="50%">
 
 ### ₿ Bitcoin Tracker
-Live crypto price tracker with portfolio management and price alerts.
-
-**Tech:** Flutter · CoinGecko API · Dart  
-[📂 View Repo](link)
+Live crypto prices, portfolio management, price alerts.
+**Tech:** Flutter · CoinGecko API · Dart
+[📂 Repo](link)
 
 </td>
 <td width="50%">
 
 ### 💬 Chat Application
-Real-time messaging app with push notifications and media sharing.
-
-**Tech:** Flutter · Firebase · Cloud Messaging  
-[📂 View Repo](link)
+Real-time messaging, push notifications, media sharing.
+**Tech:** Flutter · Firebase · Cloud Messaging
+[📂 Repo](link)
 
 </td>
 </tr>
 </table>
 -->
 
-## 📊 My Coding Activity
+## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaSyed-Dev&layout=donut&hide_border=true&title_color=a78bfa&text_color=c4b5fd&bg_color=0d0d0d&langs_count=6&hide=html,css" 
-    width="340" 
-    alt="Top Languages Donut"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidaSyed-Dev&theme=dracula" 
-    width="92%" 
-    alt="Profile Summary"
-  />
-</p>
-
+```dart
+// 📱 RidaSyed-Dev · Live GitHub Metrics
+Widget githubStats() => Row(children: [
+  StatCard(label: "Total Commits",  value: "1000+  🔥"),
+  StatCard(label: "Top Language",   value: "Dart   💙"),
+  StatCard(label: "Public Repos",   value: "29     📦"),
+  StatCard(label: "Status",         value: "Hiring ✅"),
+]);
+```
+</div>
 ---
 
 ## 🤝 Let's Work Together
 
-> 💼 Available for **freelance projects**, **remote contracts**, and **long-term collaborations**  
-> 🌍 Clients from USA, UK, Europe, Middle East — all welcome  
-> ⚡ Response time: within 24 hours
+<div align="center">
 
-<p align="center">
-  <a href="https://ridasyed.com">
-    <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-ridasyed.com-2ea44f?style=for-the-badge"/>
-  </a>
-</p>
+| 💼 Availability | Freelance · Remote Contracts · Long-term |
+|---|---|
+| 🌍 Clients | USA · UK · Europe · Middle East |
+| ⚡ Response | Within 24 hours |
+| 📧 Email | dev@ridasyed.com |
+
+<br/>
+
+<a href="https://ridasyed.com">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-ridasyed.com-0969da?style=for-the-badge"/>
+</a>
+
+</div>
