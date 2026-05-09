@@ -97,25 +97,21 @@ Real-time messaging app with push notifications and media sharing.
 </table>
 -->
 
-## 📊 My Coding Activity
+## 📊 GitHub Activity
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaSyed-Dev&layout=donut&hide_border=true&title_color=a78bfa&text_color=c4b5fd&bg_color=0d0d0d&langs_count=6&hide=html,css" 
-    width="340" 
-    alt="Top Languages Donut"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidaSyed-Dev&theme=dracula" 
-    width="92%" 
-    alt="Profile Summary"
-  />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=RidaSyed-Dev&show_icons=true&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&bg_color=0d0d0d&count_private=true&hide=contribs" width="420"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaSyed-Dev&layout=compact&hide_border=true&title_color=a78bfa&text_color=ffffff&bg_color=0d0d0d&langs_count=6&hide=html,css" width="340"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RidaSyed-Dev&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" width="700"/>
+</div>
 
 ## 🤝 Let's Work Together
 
