@@ -1,22 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=7c3aed&height=200&text=Rida%20Syed&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=Flutter%20Mobile%20%26%20Web%20App%20Developer&descSize=22&descAlignY=75"/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&center=true&vCenter=true&width=750&height=55&duration=3500&color=c4b5fd&lines=📱+Flutter+Mobile+%28iOS+%2B+Android%29+%26+💻+Web+Developer;🌍+Remote+·+Open+to+Contracts+%26+Freelance;✨+Building+Pixel-Perfect+Apps+Worldwide" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&center=true&vCenter=true&width=750&height=55&duration=3500&color=f59e0b&lines=📱+Flutter+Mobile+%28iOS+%2B+Android%29+%26+💻+Web+Developer;🌍+Remote+·+Open+to+Contracts+%26+Freelance;✨+Building+Pixel-Perfect+Apps+Worldwide" />
 
 <br/>
 
-<p align="center" style="color:#c4b5fd; font-size:16px;">
-I'm <b>Rida Syed</b> — Flutter Mobile <b>(iOS + Android)</b> & Web App Developer.<br/>
+<p align="center">
+I'm <b>Rida Syed</b> - Flutter Mobile <b>(iOS + Android)</b> & Web App Developer.<br/>
 Remote · Open to contracts & freelance worldwide 🌍
 </p>
 
-<a href="https://ridasyed.com"><img src="https://img.shields.io/badge/🌐_Portfolio-ridasyed.com-7c3aed?style=for-the-badge&logoColor=white"/></a>
-<a href="https://linkedin.com/in/rida-syedd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/rida.syedd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/20132363/rida-syed"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-<a href="https://bsky.app/profile/ridadev.flutter.community"><img src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
-<a href="mailto:dev@ridasyed.com"><img src="https://img.shields.io/badge/📧_Hire_Me-7c3aed?style=for-the-badge&logoColor=white"/></a>
+<a href="https://ridasyed.com"><img src="https://img.shields.io/badge/🌐_Portfolio-ridasyed.com-f59e0b?style=for-the-badge&labelColor=000000&logoColor=white"/></a>
+<a href="https://linkedin.com/in/rida-syedd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/></a>
+<a href="https://www.instagram.com/rida.syedd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/></a>
+<a href="https://stackoverflow.com/users/20132363/rida-syed"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=000000"/></a>
+<a href="https://bsky.app/profile/ridadev.flutter.community"><img src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=000000"/></a>
+<a href="mailto:dev@ridasyed.com"><img src="https://img.shields.io/badge/📧_Hire_Me-f59e0b?style=for-the-badge&labelColor=000000&logoColor=white"/></a>
 
 </div>
 
@@ -27,14 +25,14 @@ Remote · Open to contracts & freelance worldwide 🌍
 ```dart
 class RidaSyed extends FlutterDeveloper {
   final String location   = "Pakistan 🇵🇰 · Remote Worldwide 🌍";
-  final String focus      = "Cross-platform apps — iOS, Android & Web";
-  final bool   openToWork = true;
+  final String focus      = "Cross-platform apps - iOS, Android & Web";
+  final bool openToWork = true;
 
   List<String> get expertise => [
     "E-commerce & food delivery apps",
     "Fintech & crypto dashboards",
     "Admin panels & driver apps",
-    "Pixel-perfect UI — Figma to Flutter",
+    "Pixel-perfect UI - Figma to Flutter",
   ];
 }
 ```
@@ -155,14 +153,13 @@ class RidaSyed extends FlutterDeveloper {
 <td align="center"><img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=github&logoColor=white"/></td>
 </tr>
 
+
 </table>
 
 ---
 
-
 <!--
 ## 🚀 Featured Projects
-
 <table>
 <tr>
 <td width="50%">
@@ -207,16 +204,25 @@ Real-time messaging, push notifications, media sharing.
 
 <div align="center">
 
-```dart
-// 📱 RidaSyed-Dev · Live GitHub Metrics
-Widget githubStats() => Row(children: [
-  StatCard(label: "Total Commits",  value: "1000+  🔥"),
-  StatCard(label: "Top Language",   value: "Dart   💙"),
-  StatCard(label: "Public Repos",   value: "29     📦"),
-  StatCard(label: "Status",         value: "Hiring ✅"),
-]);
-```
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Total_Commits-1000%2B-f59e0b?style=for-the-badge&labelColor=111111&logo=git&logoColor=f59e0b"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Top_Language-Dart_💙-0175C2?style=for-the-badge&labelColor=111111&logo=dart&logoColor=0175C2"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Public_Repos-29-f59e0b?style=for-the-badge&labelColor=111111&logo=github&logoColor=f59e0b"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Status-Open_to_Work_✅-00C853?style=for-the-badge&labelColor=111111"/>
+</td>
+</tr>
+</table>
+
 </div>
+
 ---
 
 ## 🤝 Let's Work Together
@@ -232,7 +238,7 @@ Widget githubStats() => Row(children: [
 <br/>
 
 <a href="https://ridasyed.com">
-  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-ridasyed.com-0969da?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-ridasyed.com-f59e0b?style=for-the-badge&labelColor=111111"/>
 </a>
 
 </div>
